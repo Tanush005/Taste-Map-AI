@@ -8,8 +8,8 @@ Built with production-grade software engineering principles, this project demons
 
 ## ✨ Live Demo
 
-🔗 [Try it here](https://your-streamlit-link.app)  
-📁 [GitHub Repo](https://github.com/your-username/TasteMap-AI)
+🔗 [Try it here](https://taste-map-ai-yfqsyjfhzwj4vdihcmp2ha.streamlit.app/)  
+📁 [GitHub Repo](https://github.com/Tanush005/TasteMap-AI)
 
 ---
 
